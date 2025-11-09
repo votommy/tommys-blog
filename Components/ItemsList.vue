@@ -96,8 +96,7 @@ function handleFilterSelected(event: string | undefined) {
         :items="blogposts.map((blogpost) => blogpost.tags).flat()"
         @selected="handleFilterSelected"
       />
-
-      <div style="margin-left: 1rem">
+      <div style="margin: 4px 0 0 1rem">
         <label for="sort-btn">Sort:</label>
         <button
           id="sort-btn"
@@ -140,6 +139,7 @@ function handleFilterSelected(event: string | undefined) {
     border-radius: 1rem;
     padding: 3px 6px;
     margin-left: 4px;
+    text-wrap: nowrap;
 
     &:hover {
       color: var(--vp-c-brand-1);
@@ -165,13 +165,12 @@ function handleFilterSelected(event: string | undefined) {
 
   .item-date {
     align-self: center;
-    width: 25%;
     font-weight: 700;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
+    padding-right: 2rem;
+    text-wrap: nowrap;
   }
   .item-content {
-    width: 75%;
-
     .item-title {
       font-weight: 700;
       font-size: 1.5rem;

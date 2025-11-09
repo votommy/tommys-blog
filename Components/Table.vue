@@ -82,7 +82,7 @@ onBeforeMount(() => {
   }
   // Categories column
   th:first-child {
-    min-width: 250px;
+    min-width: 200px;
   }
 
   // Cells

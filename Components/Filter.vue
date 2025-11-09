@@ -54,7 +54,7 @@ function handleSelect(item: string) {
     border: 1px #999 solid;
     border-radius: 1rem;
     padding: 3px 6px;
-    margin-left: 4px;
+    margin: 4px 0 0 4px;
     cursor: pointer;
 
     &:hover {
