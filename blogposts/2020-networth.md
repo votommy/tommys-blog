@@ -15,14 +15,8 @@ Liquid
 Checking Accounts	$202	$693	$2,779	$2,341
 Savings Accounts	$0	$2,551	$4,847	$0
 Cash	$384	$384	$310	$510
-Assets				
-Car	$0	$0	$0	$0
-House	$0	$0	$0	$0
-Gold/Silver	$0	$0	$0	$0
 Debt				
-Car Loan	$0	$0	$0	$0
 Student Loans	-$8,929	-$8,929	-$8,929	-$1,533
-Mortgage	$0	$0	$0	$0
 Net Worth	-$7,462	-$3,919	$547	$3,000
 				
 Credit Score	686	719	711	708`

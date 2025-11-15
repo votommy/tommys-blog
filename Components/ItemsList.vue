@@ -8,6 +8,7 @@ import { useRouter, withBase } from "vitepress";
 export type BlogpostObj = {
   title: string;
   description: string;
+  date: string;
   link: string;
   tags: string[];
 };
@@ -21,7 +22,7 @@ const router = useRouter();
 const sortDir = ref<"asc" | "desc">("asc");
 const filter = ref<string>();
 
-const sortedBlogposts = computed(() => {
+const renderedBlogposts = computed(() => {
   const filteredBlogPosts = filter.value
     ? blogposts.filter((blogposts) =>
         blogposts.tags.includes(filter.value ?? "")
@@ -30,20 +31,19 @@ const sortedBlogposts = computed(() => {
 
   return [...filteredBlogPosts].sort((a, b) => {
     if (sortDir.value === "asc") {
-      return a.link.localeCompare(b.link);
+      return a.date.localeCompare(b.date);
     } else {
-      return b.link.localeCompare(a.link);
+      return b.date.localeCompare(a.date);
     }
   });
 });
 /**
- * The file names are always in the form of yyyy-mm-dd.
- * Transform that format into MMM dd, yyyy
+ * - input: yyyy-mm-dd
+ * - output: MMM dd, yyyy
  * - example: 1998-06-30 -> Jun 30, 1998
- * @param fileName
  */
-function getDateFromFileName(fileName: string) {
-  const parts = fileName.split("/");
+function getDateFromFileName(dateString: string) {
+  const parts = dateString.split("/");
   const date = parts[parts.length - 1];
 
   const year = date.split("-")[0];
@@ -109,11 +109,11 @@ function handleFilterSelected(event: string | undefined) {
       </div>
     </div>
     <div
-      v-for="blogpost in sortedBlogposts"
+      v-for="blogpost in renderedBlogposts"
       class="item-container"
       @click="goToLink(blogpost.link)"
     >
-      <div class="item-date">{{ getDateFromFileName(blogpost.link) }}</div>
+      <div class="item-date">{{ getDateFromFileName(blogpost.date) }}</div>
       <div class="item-content">
         <div class="item-title">{{ blogpost.title }}</div>
         <div class="item-description">{{ blogpost.description }}</div>
