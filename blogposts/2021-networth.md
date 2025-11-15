@@ -55,24 +55,10 @@ Credit Score	715	725	730	740	746	737	738	742	749	745	745	749`
 </span>
 
 <style scoped>
+@import ".vitepress/theme/blogposts.scss";
+
 #carImgWindow {
     width: 70%;
     margin: 0 auto;
-}
-p {
-    text-align: justify;
-}
-
-.tags {
-    display: flex;
-    justify-content: end;
-}
-.tagPills {
-    color: #999;
-    font-size: .85rem;
-    border: 1px #999 solid;
-    border-radius: 1rem;
-    padding: 3px 6px;
-    margin-left: 4px;
 }
 </style>

@@ -52,20 +52,5 @@ Credit Score	799	799	800	800	799	801	801	801	802	801	807	806`
 </span>
 
 <style scoped>
-p {
-    text-align: justify;
-}
-
-.tags {
-    display: flex;
-    justify-content: end;
-}
-.tagPills {
-    color: #999;
-    font-size: .85rem;
-    border: 1px #999 solid;
-    border-radius: 1rem;
-    padding: 3px 6px;
-    margin-left: 4px;
-}
+@import ".vitepress/theme/blogposts.scss";
 </style>
