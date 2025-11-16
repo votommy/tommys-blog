@@ -48,5 +48,5 @@ Credit Score	686	719	711	708`
 </span>
 
 <style scoped>
-@import ".vitepress/theme/blogposts.scss";
+@import ".vitepress/theme/blog-posts.scss";
 </style>

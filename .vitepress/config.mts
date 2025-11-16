@@ -3,20 +3,20 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/journal/",
-  title: "Tommy's Blog",
+  title: "Tommy's Journal",
   description: "Welcome to my corner of the web. This is my digital journal where I post my art, life updates, and whatever’s on my mind.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blogposts', link: '/blog-home' }
+      { text: 'Blog posts', link: '/blog-posts' }
     ],
 
     // sidebar: [
     //   {
-    //     text: 'Blogposts',
+    //     text: 'BlogPosts',
     //     items: [
-    //       { text: '2024 Net Worth Review', link: '/blogposts/2024-12-28' },
+    //       { text: 'Earthrise', link: '/blog-posts/earthrise' },
     //     ]
     //   }
     // ],

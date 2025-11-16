@@ -58,7 +58,7 @@ Credit Score	753	753	754	755	755	755	756	756	756	764	769	768`
 </span>
 
 <style scoped>
-@import ".vitepress/theme/blogposts.scss";
+@import ".vitepress/theme/blog-posts.scss";
 
 #vegasImgWindow {
     width: 70%;

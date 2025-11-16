@@ -56,5 +56,5 @@ Credit Score	778	781	781	782	786	767	783	790	791	796	797	798`
 </span>
 
 <style scoped>
-@import ".vitepress/theme/blogposts.scss";
+@import ".vitepress/theme/blog-posts.scss";
 </style>

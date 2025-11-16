@@ -4,9 +4,9 @@ My blogsite powered by VitePress. This is my digital journal where I post my art
 
 ### Developer's note
 
-#### To run in build-preview
+#### To run in dev mode
 
-- Run `npm run preview`
+- Run `npm run dev`
 
 #### To deploy
 

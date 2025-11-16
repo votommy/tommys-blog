@@ -5,7 +5,7 @@ import Filter from "./Filter.vue";
 
 import { useRouter, withBase } from "vitepress";
 
-export type BlogpostObj = {
+export type BlogPostObj = {
   title: string;
   description: string;
   date: string;
@@ -13,21 +13,21 @@ export type BlogpostObj = {
   tags: string[];
 };
 type Props = {
-  blogposts: BlogpostObj[];
+  blogPosts: BlogPostObj[];
 };
 
-const { blogposts } = defineProps<Props>();
+const { blogPosts } = defineProps<Props>();
 const router = useRouter();
 
 const sortDir = ref<"asc" | "desc">("asc");
 const filter = ref<string>();
 
-const renderedBlogposts = computed(() => {
+const renderedBlogPosts = computed(() => {
   const filteredBlogPosts = filter.value
-    ? blogposts.filter((blogposts) =>
-        blogposts.tags.includes(filter.value ?? "")
+    ? blogPosts.filter((blogPosts) =>
+        blogPosts.tags.includes(filter.value ?? "")
       )
-    : blogposts;
+    : blogPosts;
 
   return [...filteredBlogPosts].sort((a, b) => {
     if (sortDir.value === "asc") {
@@ -93,7 +93,7 @@ function handleFilterSelected(event: string | undefined) {
   <div>
     <div class="toolbar">
       <Filter
-        :items="blogposts.map((blogpost) => blogpost.tags).flat()"
+        :items="blogPosts.map((blogPost) => blogPost.tags).flat()"
         @selected="handleFilterSelected"
       />
       <div style="margin: 4px 0 0 1rem">
@@ -109,17 +109,17 @@ function handleFilterSelected(event: string | undefined) {
       </div>
     </div>
     <div
-      v-for="blogpost in renderedBlogposts"
+      v-for="blogPost in renderedBlogPosts"
       class="item-container"
-      @click="goToLink(blogpost.link)"
+      @click="goToLink(blogPost.link)"
     >
-      <div class="item-date">{{ getDateFromFileName(blogpost.date) }}</div>
+      <div class="item-date">{{ getDateFromFileName(blogPost.date) }}</div>
       <div class="item-content">
-        <div class="item-title">{{ blogpost.title }}</div>
-        <div class="item-description">{{ blogpost.description }}</div>
+        <div class="item-title">{{ blogPost.title }}</div>
+        <div class="item-description">{{ blogPost.description }}</div>
 
         <div class="tags">
-          <span v-for="tag in blogpost.tags" class="tagPills">{{ tag }}</span>
+          <span v-for="tag in blogPost.tags" class="tagPills">{{ tag }}</span>
         </div>
       </div>
     </div>

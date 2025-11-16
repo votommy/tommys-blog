@@ -89,7 +89,7 @@ aside: false
 </span>
 
 <style scoped>
-@import ".vitepress/theme/blogposts.scss";
+@import ".vitepress/theme/blog-posts.scss";
 
 #unboxingImgWindow, #emailImgWindow {
     width: 70%;

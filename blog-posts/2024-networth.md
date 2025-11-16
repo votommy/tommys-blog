@@ -52,5 +52,5 @@ Credit Score	799	799	800	800	799	801	801	801	802	801	807	806`
 </span>
 
 <style scoped>
-@import ".vitepress/theme/blogposts.scss";
+@import ".vitepress/theme/blog-posts.scss";
 </style>
