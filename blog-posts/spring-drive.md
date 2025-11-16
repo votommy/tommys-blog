@@ -51,10 +51,15 @@ aside: false
     The Spring Drive is the most perfect representation of the constant natural flow of time that man has ever made. No increments, no ticking. Just perfectly smooth, constant movement, like time itself.
 </blockquote>
 <div id="sweepVideoWindow">
-    <video controls>
-        <source src="./pics/SBGA469_sweep.mp4" type="video/mp4" alt="A video showing the dark blue dial of the Grand Seiko SBGA469 with the rock pattern texture. The seconds hand is smoothly gliding.">
-        Your browser does not support the video tag.
-    </video>
+    <figure>
+        <video controls>
+            <source src="./pics/SBGA469_sweep.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <figcaption>
+        A video showing the dark blue dial of the Grand Seiko SBGA469 with the rock pattern texture. The seconds hand is smoothly gliding.
+        </figcaption>
+    </figure>
 </div>
 <p>
     Now that I've explained why the Grand Seiko Spring Drive is so amazing, I want to talk about my watch in particular, and how it came to be one of my favorite watches. The SBGA469's dial is a dark blue color known as "Katsu-iro". The color was used in traditional samurai armor. It looks black most of the time, but turns blue under direct light. I've always loved navy blue. Growing up in Massachusetts, I was a fan of the Boston Red Sox and the New England Patriots, which both have a navy blue color-scheme.
@@ -97,5 +102,6 @@ aside: false
 #sweepVideoWindow {
     width: 70%;
     margin: 0 auto;
+    text-align: center;
 }
 </style>
