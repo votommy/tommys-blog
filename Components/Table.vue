@@ -148,6 +148,7 @@ onBeforeMount(() => {
   // Cells
   td {
     padding: 0 1rem;
+    border-width: 0.5px;
   }
 }
 </style>
