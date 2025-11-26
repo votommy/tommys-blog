@@ -1,4 +1,4 @@
-# Journal
+# Tommy's Blog
 
 My blogsite powered by VitePress. This is my digital journal where I post my art, life updates, and whatever’s on my mind.
 
@@ -12,4 +12,4 @@ My blogsite powered by VitePress. This is my digital journal where I post my art
 
 - Run `npm run build`
 - Push changes to main
-- GitHub Actions will build the site and deploy
+- GitHub Actions will build the site and deploy to votommy.github.io/tommys-blog
