@@ -12,4 +12,4 @@ My blogsite powered by VitePress. This is my digital journal where I post my art
 
 - Run `npm run build`
 - Push changes to main
-- GitHub Actions will build the site and deploy to votommy.github.io/tommys-blog
+- GitHub Actions will build the site and deploy to [votommy.github.io/tommys-blog](votommy.github.io/tommys-blog)
