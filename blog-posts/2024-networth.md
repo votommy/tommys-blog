@@ -30,6 +30,10 @@ const prev = ref({
     path: '/blog-posts/2023-networth',
     title: '2023 Annual Net Worth Review'
 })
+const next = ref({
+    path: '/blog-posts/2025-networth',
+    title: '2025 Annual Net Worth Review'
+})
 </script>
 
 <h1>2024 Annual Net Worth Review</h1>
@@ -59,7 +63,7 @@ const prev = ref({
     <span class="tagPills">finance</span>
 </span>
 
-<PrevNextButtons :prev="prev" />
+<PrevNextButtons :prev="prev" :next="next" />
 
 <style scoped>
 @import ".vitepress/theme/blog-posts.scss";

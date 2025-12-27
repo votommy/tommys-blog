@@ -19,7 +19,7 @@ type Props = {
 const { blogPosts } = defineProps<Props>();
 const router = useRouter();
 
-const sortDir = ref<"asc" | "desc">("asc");
+const sortDir = ref<"asc" | "desc">("desc");
 const filter = ref<string>();
 
 const renderedBlogPosts = computed(() => {

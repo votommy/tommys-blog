@@ -62,6 +62,13 @@ const blogPosts = ref<BlogPostObj[]>([
     link: "/blog-posts/2024-networth",
     tags: ["finance"],
   },
+  {
+    title: "2025 Annual Net Worth Review",
+    description: "I bought a house at 26 years old!",
+    date: "2025-12-28",
+    link: "/blog-posts/2025-networth",
+    tags: ["finance"],
+  },
 ])
 </script>
 
