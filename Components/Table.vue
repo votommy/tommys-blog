@@ -93,22 +93,11 @@ onBeforeMount(() => {
   th:first-child {
     position: sticky;
     left: 0;
+    border-right-width: 2px;
     background-color: var(--vp-c-bg);
     z-index: 2;
     min-width: 200px;
     border-left-width: 1px;
-
-    // right-shadow
-    &::after {
-      content: "";
-      position: absolute;
-      top: 0;
-      right: -6px;
-      width: 6px;
-      height: 100%;
-      background: linear-gradient(to right, var(--vp-c-divider), transparent);
-      pointer-events: none; /* Prevent blocking clicks */
-    }
   }
   // Style the categories
   th:first-child {
