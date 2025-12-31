@@ -58,7 +58,7 @@ const prev = ref({
   <p>
     I received the keys to my house in June, just a couple of weeks before my 27th birthday. I started designing a tattoo to commemorate this day. I eventually came up with an ornate key with the number "25" to represent the year I bought my first house.
     <br>
-    I've been working towards this goal for so long that when I finally achieved it, I wanted to take it in for a little bit. However, I couldn't stay comfortable for too long; I had to find another goal to set. I signed a 30-year fixed rate mortgage, but I plan on paying it off way sooner than that. My next goal is to pay it off early. According to my projections, I should be able to pay off the loan in 12 years pretty easily. That's while still contributing to stock investments.
+    I've been working towards this goal for so long that when I finally achieved it, I wanted to take it in for a little bit. However, I couldn't stay comfortable for too long; I had to find another goal to set. My mortgage is a 30-year loan, but I plan on paying it off way sooner than that. My next goal is to pay it off early. According to my projections, I should be able to pay off the loan in 12 years pretty easily. That's while still contributing to stock investments.
   </p>
   <div id="keyTattooImgWindow">
     <img src="./pics/KeyTattoo.jpg" alt="A photo of a forearm tattoo of an ornate key."/>
