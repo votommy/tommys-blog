@@ -68,7 +68,7 @@ const prev = ref({
     <br>
     I want to reach coast FIRE within the next 4-6 years. This is when contributing to my stock portfolio is no longer efficient because majority of the growth will come from the compounding of my existing investments. At this point, I'll be able to ease off on monthly contributions and begin to put that money towards other things, such as upgrading the car or splurging on things I want.
     <br>
-    Another goal I have is to become a millionaire before I pay off the house. I'm not even a quarter way there yet, but I feel like it should be possible to reach a net worth of $1 million within the decade.
+    Another goal I have is to become a millionaire before I pay off the house. I'm not even a quarter way there yet, but I feel like it should be possible to reach a net worth of $1 million within a decade.
     <br><br>
     I'm excited to see what the future holds. I feel like I'm finally starting to see things set in motion.
     <br><br><br>
