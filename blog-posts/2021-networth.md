@@ -49,13 +49,15 @@ const next = ref({
     <br><br>
     A few points of interest worth talking about — I quit my job without a plan-B, and I bought a brand new car during the chip shortage.
     <br><br>
-    That job that I landed in September of last year didn't turn out so great. After only 8 months, I decided that my mental health was worth more than the stable income I was making there. To make matters worse, my car broke down during the silicon shortage. Because supply wasn't meeting demand, used car prices skyrocketed to the same price as brand new cars. Since my local dealership had an agreement with the manufacturer to cap new car prices at MSRP, it made the most sense to buy the new car rather than a used one that would've costed the same amount. So I had no choice but to do it; I cashed out on all my Dogecoin and used it towards the down-payment on a 2021 Corolla Hatchback. It's a pretty nice car, but I wish I could've bought a used car for half that price.
+    That job that I landed in September of last year didn't turn out so great. After only 8 months, I decided that my mental health was worth more than the stable income I was making there. I also had a sense that the company isn't going to last much longer. I see signs of a failing business, and it was definitely not good for morale. So I quit.
+    <br>
+    To make matters worse, my car broke down during the silicon shortage. Because supply wasn't meeting demand, used car prices skyrocketed to the same price as brand new cars. Since my local dealership had an agreement with the manufacturer to cap new car prices at MSRP, it made the most sense to buy the new car rather than a used one that would've costed the same amount. So I had no choice but to do it; I cashed out on all my Dogecoin and used it towards the down-payment on a 2021 Corolla Hatchback. It's a pretty nice car, but I wish I could've bought a used car for half that price - during normal circumstances, I would have.
 </p>
 <div id="carImgWindow">
     <img src="./pics/Car.jpg" alt="A photo of a white 2021 Toyota Corolla Hatchback."/>
 </div>
 <p>
-    I ended the year with no job, and I'm slowly withdrawing the principle from my Roth IRA to make the car payments.
+    I ended the year with no job, and I'm slowly withdrawing the principle from my Roth IRA to make the car payments. Luckily, that's tax-free as long as I don't touch the profits.
     <br>
     Hopefully, I can find a better job in 2022 before I deplete my funds completely.
     <br><br><br>
