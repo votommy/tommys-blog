@@ -49,6 +49,13 @@ const blogPosts = ref<BlogPostObj[]>([
     tags: ["horology", "monologue"],
   },
   {
+    title: "Having an emergency fund saved me",
+    description: "Car trouble? Barely an inconvenience!",
+    date: "2023-06-23",
+    link: "/blog-posts/emergency-reserve",
+    tags: ["monologue", "finance"],
+  },
+  {
     title: "2023 Annual Net Worth Review",
     description: "Slow & Steady",
     date: "2023-12-28",
