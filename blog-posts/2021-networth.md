@@ -46,12 +46,14 @@ const next = ref({
 
 <p>
     Man, what a year this was.
-    <br><br>
-    A few points of interest worth talking about — I quit my job without a plan-B, and I bought a brand new car during the chip shortage.
-    <br><br>
-    That job that I landed in September of last year didn't turn out so great. After only 8 months, I decided that my mental health was worth more than the stable income I was making there. I also had a sense that the company isn't going to last much longer. I see signs of a failing business, and it was definitely not good for morale. So I quit.
     <br>
-    To make matters worse, my car broke down during the silicon shortage. Because supply wasn't meeting demand, used car prices skyrocketed to the same price as brand new cars. Since my local dealership had an agreement with the manufacturer to cap new car prices at MSRP, it made the most sense to buy the new car rather than a used one that would've costed the same amount. So I had no choice but to do it; I cashed out on all my Dogecoin and used it towards the down-payment on a 2021 Corolla Hatchback. It's a pretty nice car, but I wish I could've bought a used car for half that price - during normal circumstances, I would have.
+    A few points of interest worth talking about — I quit my job without a plan-B, I dabbled in meme-coins, and I bought a brand new car during the chip shortage.
+    <br><br>
+    That job that I landed in September of last year didn't turn out so great. After only 7 months, I decided that my mental health was worth more than the stable income I was making there. I also had a sense that the company isn't going to last much longer. I see signs of a failing business, and it was definitely not good for morale. So I quit.
+    <br><br>
+    During the short 7 months that I had an income, I fell into the crypto-hype. Dogecoin was the talk of the town, and so of course I bought some. I never planned to keep it for long; it was my desperate attempt at some quick profits. As you can see in the "Individual Investments" category, I put $1000 on $DOGE, and made a few hundred bucks. But an emergency came up, and I cashed out before the peak. It was probably for the best, because I wouldn't have known that early May was the peak, and I probably would've held it into the crash which came immediately after.
+    <br><br>
+    The emergency, as it turned out, was my car breaking down right in the middle of the silicon shortage. Because supply wasn't meeting demand, used car prices skyrocketed to the same price as brand new cars. Since my local dealership had an agreement with the manufacturer to cap new car prices at MSRP, it made the most sense to buy the new car rather than a used one that would've costed the same amount. So I had no choice but to do it; I cashed out on all my Dogecoin and used it towards the down-payment on a 2021 Corolla Hatchback. It's a pretty nice car, but I wish I could've bought a used car for half that price - during normal circumstances, I would have.
 </p>
 <div id="carImgWindow">
     <img src="./pics/Car.jpg" alt="A photo of a white 2021 Toyota Corolla Hatchback."/>

@@ -21,7 +21,7 @@ aside: false
   <br>
   I was on my way home from grocery shopping when all of a sudden, my front-right tire deflated like a Macy's parade float. And instead of being a source of stress in my week, since I had my emergency fund, it was barely an inconvenience to my evening. I was only a few blocks away, so I was able to make it home on the flat, then I just called a mobile tire service to literally come to my driveway and change my tire on the spot.
   <br>
-  Didn't have to worry about the cost at all. Highly recommend having that emergency fund.
+  Didn't have to worry about the cost at all. And since the experience was so stress-free, I was even in the mood to leave a generous tip for the technician, just out of gratitude. So yes, I highly recommend having that emergency fund.
 </p>
 <div id="tireImgWindow">
   <img src="./pics/Tire.jpg" alt="A photo of a car with the front-right tire deflated."/>
