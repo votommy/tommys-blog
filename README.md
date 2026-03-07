@@ -1,3 +1,5 @@
+<img src="/public/tb_logo.png" width="100px">
+
 # Tommy's Blog
 
 My blogsite powered by VitePress. This is my digital journal where I post my art, life updates, and whatever’s on my mind.
