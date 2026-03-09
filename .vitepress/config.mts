@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress'
 
+const currentYear = new Date().getFullYear();
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/",
@@ -10,11 +12,16 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: '/tb_logo.png',
+
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog posts', link: '/blog-posts' }
     ],
+
+    footer: {
+      copyright: `Copyright © ${currentYear} | Tommy's Blog`
+    }
 
     // sidebar: [
     //   {
