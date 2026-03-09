@@ -20,7 +20,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: `Copyright © ${currentYear} | Tommy's Blog`
+      copyright: `Copyright © ${currentYear} | tommys-blog`
     }
 
     // sidebar: [
