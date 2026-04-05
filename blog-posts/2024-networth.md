@@ -28,11 +28,13 @@ Credit Score	799	799	800	800	799	801	801	801	802	801	807	806`
 
 const prev = ref({
     path: '/blog-posts/2023-networth',
-    title: '2023 Annual Net Worth Review'
+    title: '2023 Annual Net Worth Review',
+    description: "Slow & Steady",
 })
 const next = ref({
     path: '/blog-posts/2025-networth',
-    title: '2025 Annual Net Worth Review'
+    title: '2025 Annual Net Worth Review',
+    description: "I bought a house at 26 years old!",
 })
 </script>
 

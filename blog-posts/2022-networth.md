@@ -28,11 +28,13 @@ Credit Score	753	753	754	755	755	755	756	756	756	764	769	768`
 
 const prev = ref({
     path: '/blog-posts/2021-networth',
-    title: '2021 Annual Net Worth Review'
+    title: '2021 Annual Net Worth Review',
+    description: "Bought New Car with DOGECOIN!",
 })
 const next = ref({
     path: '/blog-posts/2023-networth',
-    title: '2023 Annual Net Worth Review'
+    title: '2023 Annual Net Worth Review',
+    description: "Slow & Steady",
 })
 </script>
 

@@ -5,10 +5,12 @@ type Props = {
   prev?: {
     path: string;
     title: string;
+    description: string;
   };
   next?: {
     path: string;
     title: string;
+    description: string;
   };
 };
 
@@ -29,7 +31,8 @@ function goToLink(path?: string) {
     <div class="prev-next-container">
       <div v-show="prev" class="prev-next-btn" @click="goToLink(prev?.path)">
         <div class="prev-next-label">Previous post</div>
-        <div>{{ prev?.title }}</div>
+        <div class="item-title">{{ prev?.title }}</div>
+        <div class="item-description">{{ prev?.description }}</div>
       </div>
       <div
         v-show="next"
@@ -37,7 +40,8 @@ function goToLink(path?: string) {
         @click="goToLink(next?.path)"
       >
         <div class="prev-next-label">Next post</div>
-        <div>{{ next?.title }}</div>
+        <div class="item-title">{{ next?.title }}</div>
+        <div class="item-description">{{ next?.description }}</div>
       </div>
     </div>
   </div>
@@ -59,17 +63,28 @@ function goToLink(path?: string) {
     margin-top: 0.25rem;
     cursor: pointer;
 
+    .item-title {
+      font-weight: 700;
+    }
+    .item-description {
+      color: var(--vp-c-text-2);
+      font-size: 0.75rem;
+    }
+
+    .prev-next-label {
+      color: var(--vp-c-brand-1);
+    }
     &:hover {
       border-color: var(--vp-c-brand-1);
+
+      .prev-next-label {
+        font-weight: 700;
+      }
     }
 
     &.next-btn {
       margin-left: auto;
       align-items: flex-end;
-    }
-
-    .prev-next-label {
-      color: var(--vp-c-text-2);
     }
   }
 }

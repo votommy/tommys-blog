@@ -29,11 +29,13 @@ Credit Score	715	725	730	740	746	737	738	742	749	745	745	749`
 
 const prev = ref({
     path: '/blog-posts/2020-networth',
-    title: '2020 Annual Net Worth Review'
+    title: '2020 Annual Net Worth Review',
+    description: "First Job Out of College!",
 })
 const next = ref({
     path: '/blog-posts/2022-networth',
-    title: '2022 Annual Net Worth Review'
+    title: '2022 Annual Net Worth Review',
+    description: "Moved to Las Vegas!",
 })
 </script>
 

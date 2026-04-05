@@ -28,11 +28,13 @@ Credit Score	778	781	781	782	786	767	783	790	791	796	797	798`
 
 const prev = ref({
     path: '/blog-posts/2022-networth',
-    title: '2022 Annual Net Worth Review'
+    title: '2022 Annual Net Worth Review',
+    description: "Moved to Las Vegas!",
 })
 const next = ref({
     path: '/blog-posts/2024-networth',
-    title: '2024 Annual Net Worth Review'
+    title: '2024 Annual Net Worth Review',
+    description: "$100k net worth! 800 credit score!",
 })
 </script>
 

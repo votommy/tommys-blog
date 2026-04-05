@@ -26,7 +26,8 @@ Credit Score	686	719	711	708`
 
 const next = ref({
     path: '/blog-posts/2021-networth',
-    title: '2021 Annual Net Worth Review'
+    title: '2021 Annual Net Worth Review',
+    description: "Bought New Car with DOGECOIN!",
 })
 </script>
 

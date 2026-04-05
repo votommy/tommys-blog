@@ -30,7 +30,8 @@ Credit Score	808	803	804	804	799	800	800	768	770	777	779	776`
 
 const prev = ref({
     path: '/blog-posts/2024-networth',
-    title: '2024 Annual Net Worth Review'
+    title: '2024 Annual Net Worth Review',
+    description: "$100k net worth! 800 credit score!",
 })
 </script>
 
