@@ -78,7 +78,8 @@ function goToLink(path?: string) {
       border-color: var(--vp-c-brand-1);
 
       .prev-next-label {
-        font-weight: 700;
+        text-decoration: underline;
+        text-underline-offset: 0.25rem;
       }
     }
 
