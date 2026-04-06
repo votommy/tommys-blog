@@ -79,7 +79,7 @@ function goToLink(path?: string) {
 
       .prev-next-label {
         text-decoration: underline;
-        text-underline-offset: 0.25rem;
+        text-underline-offset: 3px;
       }
     }
 
