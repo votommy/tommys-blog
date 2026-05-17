@@ -15,35 +15,35 @@ aside: false
     <img src="./pics/SBGA469_unboxing.jpg" alt="A photo showing the Grand Seiko SBGA469 coming out of the box."/>
 </div>
 <p>
-    I remember when I bought my first automatic mechanical watch in my senior year of college. It was an Orient Open-heart design with a tourbillon. That was my introduction to mechanical watches. There's just something so cool about a time-keeper that runs purely on its own mechanisms with no battery. That Orient was the best thing I could afford at the time. It wasn't very valuable or prestigious, but that didn't matter. As a fan of engineering, I appreciated the craftmanship of the watch, and the fact that the movement was manufactured in-house. I no longer have that watch after trading it, but to this day, I consider Orient to be one of the best value watch brands for beginning enthusiasts.
+    I remember when I bought my first automatic mechanical watch in my senior year of college. It was an Orient with an open-heart design. That was my introduction to mechanical watches. There's just something so cool about a time-keeper that runs purely on its own mechanisms with no battery. That Orient was the best thing I could afford at the time. It wasn't very valuable or prestigious, but that didn't matter. As a fan of engineering, I appreciated the craftsmanship of the watch, and the fact that the movement was manufactured in-house. I no longer have that watch after trading it, but to this day, I consider Orient to be one of the best value watch brands for beginning enthusiasts.
     <br><br>
-    Fast-forward to today, I'm able to afford better watches, with even better engineering. When it comes to watch-making, it is my opinion that nobody does it better than Grand Seiko, with the invention of the Spring Drive. This may be a controversial take as I'm claiming that a Japanese brand has beat the Swiss in watch-making, but that is where I stand.
+    Fast-forward to today, I’m fortunate enough to afford watches with even more impressive engineering. When it comes to watchmaking, it is my opinion that nobody does it better than Grand Seiko, with the invention of the Spring Drive. This may be a controversial take as I'm claiming that a Japanese brand has beat the Swiss in watchmaking, but that is where I stand.
     <br>
-    In order to get into the technology of the Spring Drive, you have to first know about the other 2 watch technologies that has existed for a long time.
+    In order to get into the technology of the Spring Drive, you have to first know about the other two watch technologies that has existed for a long time.
     <br><br>
-    There are mechanical watches which tell the time via a wound up spring which slowly uncoils, turning some gears around to move the watch hands. These take a super impressive amount of engineering to get right, and even the best ones still aren't as accurate as the other watch technology, which is the quartz method.
+    There are mechanical watches which tell the time via a tightly wound spring which slowly uncoils, turning some gears around to move the watch hands. These take a super impressive amount of engineering to get right, and even the best ones still aren't as accurate as the other watch technology, which is the quartz method.
     <br>
-    The quartz method was actually a scientific discovery. It was discovered that quartz crystals vibrate at a very consistent rate when electricity is passed through it. Scientists found that if you count the number of times a quartz crystal vibrates in a second, you can very accurately use it in a clock to move the seconds hand extremely precisely. This is how most cheap, disposable watches are made today. There's a small quartz crystal inside each watch, and a battery to pass electricity through it which moves the watch hands.
+    The quartz method was actually a scientific discovery. It was discovered that quartz crystals vibrate at a very consistent rate when an electric current is passed through it. Scientists found that if you count the number of times a quartz crystal vibrates in a second, you can very accurately use it in a clock to move the seconds hand extremely precisely. This is how most cheap, disposable watches are made today. There's a small quartz crystal inside each watch, and a battery to pass an electric current through it which moves the watch hands.
     <br>
-    Even though the quartz method is the most accurate by far, mechanical watches are still seen as more valuable because of the mechanical engineering required to make one, while quartz watches can be mass produced very cheaply.
+    Even though the quartz method is the most accurate by far, mechanical watches are still seen as more valuable because of the mechanical engineering required to make one, while quartz watches can be mass-produced very cheaply.
     <br><br>
     That brings us to —
 </p>
 <blockquote>
-    Grand Seiko's Spring Drive: The biggest leap in watch-making since Seiko introduced the quartz movement in 1969.
+    Grand Seiko's Spring Drive: The biggest leap in watchmaking since Seiko introduced the quartz movement in 1969.
 </blockquote>
 <p>
-    The Spring Drive is a fusion of the 2 prior technologies, but creates a sum which is greater than the two parts. A Spring Drive, similar to a typical mechanical watch, doesn't have a battery in it; all of its energy comes from the main spring like the one you'd find in a mechanical watch. What makes it different is the fact that it also has a quartz crystal in it. Instead of a battery passing an electrical current through it, the electricity is generated from the mechanical spring itself.
+    The Spring Drive is a fusion of the two prior technologies, but creates a sum which is greater than the two parts. A Spring Drive, similar to a typical mechanical watch, doesn't have a battery in it; all of its energy comes from the main spring like the one you'd find in a mechanical watch. What makes it different is the fact that it also has a quartz crystal in it. Instead of a battery passing an electrical current through it, the electricity is generated from the mechanical spring itself.
     <br>
     This way, you get to appreciate the artistry of a mechanical watch, but with the accuracy of a quartz watch.
     <br>
     But accuracy isn't the only thing you get from a Spring Drive. You also get the famously smooth movement of the seconds hand.
     <br>
-    In a battery powered watch, the seconds hand "ticks" once every second.
+    In a battery-powered watch, the seconds hand "ticks" once every second.
     <br>
-    In a mechanical watch, you can speed up this ticking so it ticks multiple times a second, in smaller increments. This is called a "sweep" of the seconds hand. Watch makers have been trying to speed up the ticking for decades, in an attempt to make the sweep look as smooth as possible. Some of the highest frequency movements tick as fast as 100 times per second.
+    In a mechanical watch, you can speed up this ticking so it ticks multiple times a second, in smaller increments. This is called a "sweep" of the seconds hand. Watch makers have been trying to speed up the ticking for decades, in an attempt to make the sweep look as smooth as possible. Some of the highest frequency movements tick as fast as 10 times per second.
     <br>
-    The Spring Drive completely broke the game, creating a seconds hand "glide" which is infinitely smooth. The gears that are responsible for the movements are actually spinning frictionlessly, creating a perfectly smooth glide of the seconds hand.
+    The Spring Drive redefined how the seconds hand could move, creating a "glide" which is infinitely smooth. Unlike a traditional oscillator, the Spring Drive regulates time using a glide wheel that spins continuously without the locking and unlocking on a mechanical escapement. This continuous rotation of the glide wheel creates a perfectly smooth glide of the seconds hand.
     <br>
     I like to put it this way — 
 </p>
@@ -68,7 +68,7 @@ aside: false
     <br>
     The SBGA211, also known as the "Snowflake", is the most famous Spring Drive model, and arguably one of the most beautiful with its pure white dial that resembles snow on the Hida Mountains. But it's so popular, that it loses its appeal in my opinion. I wanted something unique and special to me.
     <br>
-    Another model that stood out was the SBGA413, also known as the "Shunbun". It has a subtle pink dial that resembles sakura pedals floating on a pond surface. I seriously considered this one because of the elegant "Iwao" texture on the dial, meaning "rock pattern". But as I continued to browse the boutique, I came across one Spring Drive that I thought was perfect for me.
+    Another model that stood out was the SBGA413, also known as the "Shunbun". It has a subtle pink dial that resembles sakura petals floating on a pond surface. I seriously considered this one because of the elegant "Iwao" texture on the dial, meaning "rock pattern". But as I continued to browse the boutique, I came across one Spring Drive that I thought was perfect for me.
     <br>
     The Katsu-iro shares the same rock pattern on its dial as the Shunbun, but with a color more fitting for my personal taste. When I saw it for the first time, it was unfortunately sold out with no promise that it'd ever return. But just to be safe, I signed up for email notifications in case it ever went back in stock. On the 19th of April 2023, I received the email that it was back! I did not hesitate, and placed my order immediately.
 </p>
@@ -76,7 +76,7 @@ aside: false
     <img src="./pics/SBGA469_email.jpg" alt="A screenshot of the email stating the Grand Seiko SBGA469 is back in stock."/>
 </div>
 <p>
-    Grand Seiko is far from the only watch brand with an intriguing story, and I do have a handful of other watches I wish to own some day.
+    Grand Seiko is far from the only watch brand with an intriguing story, and I do have a handful of other watches I wish to own someday.
     <br>
     The Omega 50th Anniversary Silver Snoopy is definitely on that list, and the Rolex Submariner is a classic that is undeniably an icon. I also think the Cartier Santos is one of the most elegant watches ever designed, with its own rich history.
     <br>
