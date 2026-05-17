@@ -15,7 +15,7 @@ import type { BlogPostObj} from "/Components/ItemsList.vue"
 const blogPosts = ref<BlogPostObj[]>([
   {
     title: "Earthrise",
-    description: "Celebrating Earth Day's 50th Anniversity",
+    description: "Celebrating Earth Day's 50th Anniversary",
     date: "2020-04-22",
     link: "/blog-posts/earthrise",
     tags: ["monologue", "space"],
